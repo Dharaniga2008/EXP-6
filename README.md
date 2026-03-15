@@ -11,7 +11,9 @@ DIAGRAM:CIRCUIT DIAGRAM
 
 ![image](beee-6.png)
 ![image](beee-7.png)
+
 ![image](beee-8.png)
+
 ![image](beee-9.png)
 
 
